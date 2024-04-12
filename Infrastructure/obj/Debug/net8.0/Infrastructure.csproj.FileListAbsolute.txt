@@ -1,0 +1,14 @@
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Nackademin\ASP.NET1\Silicon_1\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
